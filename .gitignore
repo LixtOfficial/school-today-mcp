@@ -1,0 +1,11 @@
+node_modules/
+cookies.json
+.preview_cache.json
+.env
+.env.*
+!.env.example
+*.log
+*.html
+
+
+
